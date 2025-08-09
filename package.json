@@ -92,12 +92,6 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.2.0"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
